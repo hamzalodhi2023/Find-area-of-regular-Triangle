@@ -1,8 +1,8 @@
-# AMAZING ANIMATED FIND AREA OF TRIANGLE 🎉
+# AMAZING ANIMATED FIND AREA OF REGULAR TRIANGLE 🎉
 
 ### Author - HAMZA KHAN LODHI
 
-Click Here to visit : https://hamzalodhi2023.github.io/Find-area-of-Triangle<br><br>
+Click Here to visit : https://hamzalodhi2023.github.io/Find-area-of-regular-Triangle<br><br>
 
 ## Clone Repository ✌
 
@@ -16,7 +16,7 @@ Open your terminal or command prompt on your local machine.
 
 ### Step 3: Navigate to Your Desired Directory
 
-Use the cd command to navigate to the directory where you want to clone the "Find-area-of-Triangle" repository.
+Use the cd command to navigate to the directory where you want to clone the "Find-area-of-regular-Triangle" repository.
 
 ```bash
 cd path/to/your/directory
@@ -24,10 +24,10 @@ cd path/to/your/directory
 
 ### Step 4: Clone the Repository
 
-Run the following command to clone the "Find-area-of-Triangle" repository:
+Run the following command to clone the "Find-area-of-regular-Triangle" repository:
 
 ```bash
-git clone https://github.com/hamzalodhi2023/Find-area-of-Triangle.git
+git clone https://github.com/hamzalodhi2023/Find-area-of-regular-Triangle.git
 ```
 
 ### Step 5: Navigate to the Cloned Directory
